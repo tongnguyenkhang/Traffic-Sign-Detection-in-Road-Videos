@@ -1,5 +1,5 @@
 # Traffic Sign Detection in Road Videos
-A simple program created to automatically apply rectangles and the traffic signs in a given video. 
+A simple program created to automatically apply rectangles and the traffic signs in a given video. This was made as a project for Digital Image Processing class.
 
 # Main idea of the program
 1. Figure out the color threshold to mask on and detect the traffic signs.
